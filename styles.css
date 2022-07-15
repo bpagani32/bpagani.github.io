@@ -422,3 +422,17 @@ iframe{
     border-radius: 15%;
 }
 
+/*tablet styles */
+@media screen and (max-width: 1000px){
+    .container{
+        flex-direction: column;
+    }
+
+}
+/*phone styles */
+@media screen and (max-width: 700px){
+    .box5, .box6{
+        display: none;
+    }
+    
+}
