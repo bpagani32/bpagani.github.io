@@ -189,6 +189,7 @@ header a:hover{
 #contact{
 	min-height: 440px;
 	background-color: #35424a;
+    align-items: center;
 }
 #contact h1{
 	text-align: center;
@@ -435,4 +436,32 @@ iframe{
         display: none;
     }
     
+}
+#GXS_Logo{
+    max-width: fit-content;
+    height: 100px;
+}
+#GXS_Logo:hover{
+    border:2px solid black;
+}
+h4{
+    background-color:#35424a ;
+    color:#e8491d
+}
+h3{
+    background-color:#35424a;
+    color: #f4f4f4;
+    width: 700px;
+    height:200px;
+    float: center;
+	margin-right: 20px;
+	margin-left: 350px;
+    font-size: 35px;
+    
+}
+h4{
+    max-width: fit-content;
+    color:white;
+
+
 }
